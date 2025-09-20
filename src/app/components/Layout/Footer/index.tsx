@@ -32,8 +32,8 @@ const Footer = () => {
               <Image
                 src='/images/logo/logo2.svg'
                 alt='Logo'
-                width={48}
-                height={64}
+                width={160}
+                height={80}
               />
             </div>
             <p className='text-white text-lg font-medium leading-7'>

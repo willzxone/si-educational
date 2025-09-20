@@ -8,7 +8,7 @@ import Newsletter from '@/app/components/Home/Newsletter'
 import { Metadata } from 'next'
 import ContactForm from './components/Contact/Form'
 export const metadata: Metadata = {
-  title: 'Si Educational',
+  title: 'Skill Sphere',
 }
 
 export default function Home() {
